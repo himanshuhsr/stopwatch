@@ -3,9 +3,9 @@
  
  ## How to run this project?
  
- -- Just clone this repository to your local machine
- -- Run "npm install" to install all the package required for this project
- -- Then run "npm start" to run this project.
+ - Just clone this repository to your local machine
+ - Run "npm install" to install all the package required for this project
+ - Then run "npm start" to run this project.
  
  ## About the Project
  
