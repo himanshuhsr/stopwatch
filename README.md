@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
  This is simple stopwatch
  
  ## How to run this project?
